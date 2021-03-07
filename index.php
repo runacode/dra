@@ -1,7 +1,7 @@
-<?php $company = "PRESTIGE IMPORT AUTO";
-$phone = "(305) 261-8083";
-	$address1 = "7013 SW 46TH ST";
-	$address2 = "MIAMI, FL 33155";
+<?php $company = "RANDALL CONSTRUCTION";
+$phone = "(641) 732-4258";
+	$address1 = "2010 357TH ST";
+	$address2 = "OSAGE, IA 50461";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,8 +73,8 @@ $phone = "(305) 261-8083";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Do not hesitate to start a new project with us!</h6>
+                <h3 class="u-text u-text-7">Hello</h3>
+                <h6 class="u-text u-text-8">Tell us about your project!</h6>
               </div>
             </div>
           </div>
